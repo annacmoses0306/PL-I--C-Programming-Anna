@@ -1,3 +1,4 @@
+//Program(15) -> Write a program to generate a multiplication table of any number using DO-WHILE loop//
 #include <stdio.h>
 
 int main()
